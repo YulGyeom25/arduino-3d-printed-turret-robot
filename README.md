@@ -1,3 +1,5 @@
+<img width="960" height="1280" alt="6269494290782294095" src="https://github.com/user-attachments/assets/0b03676b-68dc-441c-a0be-efa18c6219b3" />
+
 # Arduino 기반 3D 프린팅 커브볼 터렛 프로토타입
 
 이 프로젝트는 휘어지는 탁구공을 발사하기 위한 3D 프린팅 기반 터렛형 발사대 프로토타입입니다.
